@@ -13,6 +13,7 @@ ArduBot is fully controlled by IR remote control and it has 3 modes:
 
 
 The robot assembling is easy. Follow these instructions:
+
 1) Print all these parts:
 
 	1x Front mount part
@@ -37,6 +38,8 @@ The robot assembling is easy. Follow these instructions:
 	1x IR receiver TSOP382 or another
 	1x PC Speaker
 	4x AAA battery
+
+Next instructions:
 
 	3) Hack Futaba servos so they can turn 360 degrees
 	4) Assembly all parts together
