@@ -38,12 +38,12 @@ The robot assembling is easy. Follow these instructions:
 	1x PC Speaker
 	4x AAA battery
 
-3) Hack Futaba servos so they can turn 360 degrees
-4) Assembly all parts together
-5) Connect everything with schematic on https://github.com/davidhrbaty/ArduBot
-6) Modify program to your IR remote controll
-7) Upload program to Arduino which you can download from https://github.com/davidhrbaty/ArduBot
-8) Insert batteries into battery pack
-9) Ready to go :-)
+	3) Hack Futaba servos so they can turn 360 degrees
+	4) Assembly all parts together
+	5) Connect everything with schematic on https://github.com/davidhrbaty/ArduBot
+	6) Modify program to your IR remote controll
+	7) Upload program to Arduino which you can download from https://github.com/davidhrbaty/ArduBot
+	8) Insert batteries into battery pack
+	9) Ready to go :-)
 
 
