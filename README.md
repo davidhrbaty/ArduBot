@@ -3,7 +3,9 @@ ArduBot
 
 Autonomous arduino robot fully controlled by IR remote control.
 
-Video: https://www.youtube.com/watch?v=4a9aTn8atQU
+Video:
+-------
+[![Video](https://img.youtube.com/vi/4a9aTn8atQU/0.jpg)](https://www.youtube.com/watch?v=4a9aTn8atQU)
 
 ArduBot is home made robot fully printed on the reprap 3D printer. It is based on arduino nano board, servos and ultrasonic sensor. It is easy to print, assemble, small, fun and great intro into electronics and robotics.
 ArduBot is fully controlled by IR remote control and it has 3 modes:
